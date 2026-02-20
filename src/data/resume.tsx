@@ -94,7 +94,7 @@ export const DATA = {
         }
       ],
       image: "./ig.png",
-      
+      video: ""
     },
     {
       title: "Frontend Practice",
@@ -124,6 +124,7 @@ export const DATA = {
         },
       ],
       image: "./frontend.png",
+      video: ""
     },
     {
       title: "AI Chatbot Landing Page",
@@ -151,6 +152,7 @@ export const DATA = {
         },
       ],
       image: "ai.png",
+      video: ""
     },
   ],
   hackathons: [
