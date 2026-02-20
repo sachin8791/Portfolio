@@ -19,7 +19,7 @@ export const DATA = {
   location: "New Delhi, India",
   locationLink: "https://www.google.com/maps/place/delhi",
   description:
-    "Software Engineer with a passion for building scalable and efficient systems.",
+    "I am a passionate Software Engineer focused on building scalable and user-friendly web applications. I enjoy working with modern technologies like React, Next.js, and backend systems to create efficient and real-world solutions. I am constantly learning and improving my skills to deliver high-quality, maintainable code.",
   summary:
     "I am a software engineer with a passion for building scalable and efficient systems.",
   avatarUrl: "/me.png",
@@ -29,6 +29,7 @@ export const DATA = {
     { name: "Typescript", icon: Typescript },
     { name: "Node.js", icon: Nodejs },
     { name: "Postgres", icon: Postgresql },
+    
   ],
   navbar: [
     { href: "/", icon: HomeIcon, label: "Home" },
