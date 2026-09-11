@@ -156,6 +156,35 @@ export const DATA = {
       image: "ai.png",
       video: ""
     },
+        {
+      title: "TaskFlow – Todo & Productivity Dashboard",
+      href: "https://sachin8791.github.io/taskflow-todo/",
+      dates: "Sep 2026",
+      active: true,
+      description:
+        "A modern and responsive productivity dashboard for managing daily tasks efficiently. Includes task creation, editing, deletion, completion tracking, priority levels, due dates, categories, search, sorting, bulk actions, progress statistics, dark mode, and localStorage persistence.",
+      technologies: [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "LocalStorage",
+        "Responsive Design",
+      ],
+      links: [
+        {
+          type: "Website",
+          href: "https://sachin8791.github.io/taskflow-todo/",
+          icon: <Icons.globe className="size-3" />,
+        },
+        {
+          type: "Source",
+          href: "https://github.com/sachin8791/taskflow-todo",
+          icon: <Icons.github className="size-3" />,
+        },
+      ],
+      image: "./taskflow.png",
+      video: "",
+    },
   ],
   hackathons: [
     
