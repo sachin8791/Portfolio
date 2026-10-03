@@ -185,6 +185,39 @@ export const DATA = {
       image: "./taskflow.png",
       video: "",
     },
+    {
+  title: "FitZone Gym Website",
+  href: "https://sachin8791.github.io/fitzone-gym/",
+  dates: "Sep 2026",
+  active: true,
+
+  description:
+    "A modern and responsive gym website featuring Home, About, Services, Contact, Login, Register and Dashboard pages with user authentication and interactive UI.",
+
+  technologies: [
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "Node.js",
+    "Express.js",
+  ],
+
+  links: [
+    {
+      type: "Website",
+      href: "https://sachin8791.github.io/fitzone-gym/",
+      icon: <Icons.globe className="size-3" />,
+    },
+    {
+      type: "GitHub",
+      href: "https://github.com/sachin8791/fitzone-gym",
+      icon: <Icons.github className="size-3" />,
+    },
+  ],
+
+  image: "./fitzone.png",
+  video: "",
+},
   ],
   hackathons: [
     
